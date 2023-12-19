@@ -2,6 +2,16 @@ const express = require("express")
 const app=express();
 const port = 5000
 const dp=require("./db")
+const path  = require('path');
+
+
+
+
+
+
+const _dirname=path.dirname("")
+const buildpath = path.join(_dirname,"../food-delivery/build")
+app.use(express.static(buildpath))
 
 
 

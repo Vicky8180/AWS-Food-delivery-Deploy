@@ -1,0 +1,355 @@
+[
+    {
+    "foodname":"Sindhi Biryani",
+    "foodprice":299,
+    "foodcategory":"Biryani",
+    "foodrating":5,
+    "foodimg":"https://img-global.cpcdn.com/recipes/d80b825db82e1dfe/680x482cq70/sindhi-chicken-biryani-recipe-main-photo.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Memoni biryani",
+    "foodprice":99,
+    "foodcategory":"Biryani",
+    "foodrating":5,
+    "foodimg":"https://images.zaiqathespicestore.com/uploads/2020/01/memonibiryani.png",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Malabar biryani",
+    "foodprice":399,
+    "foodcategory":"Biryani",
+    "foodrating":5,
+    "foodimg":"https://www.recipesaresimple.com/wp-content/uploads/2018/10/malabar-special-dum-chicken-biryani.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Thalassery biryani",
+    "foodprice":399,
+    "foodcategory":"Biryani",
+    "foodrating":5,
+    "foodimg":"imglink",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+
+{
+    "foodname":"Ambur biryani",
+    "foodprice":199,
+    "foodcategory":"Biryani",
+    "foodrating":5,
+    "foodimg":"https://content.jdmagicbox.com/comp/bangalore/l1/080pxx80.xx80.191206201206.z4l1/catalogue/ambur-star-biryani-hebbagodi-bangalore-restaurants-1es5bn4tky.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+
+{
+    "foodname":"Dindigul biryani",
+    "foodprice":499,
+    "foodcategory":"Biryani",
+    "foodrating":5,
+    "foodimg":"https://www.pakladies.com/wp-content/uploads/2013/05/Sindhi-Biryani-Recipe-Pakis.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+
+{
+    "foodname":"Hamburger",
+    "foodprice":49,
+    "foodcategory":"Burger",
+    "foodrating":5,
+    "foodimg":"https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/Popl_burger.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Meat burger",
+    "foodprice":79,
+    "foodcategory":"Burger",
+    "foodrating":5,
+    "foodimg":"https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/burger_0.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Elk burger",
+    "foodprice":99,
+    "foodcategory":"Burger",
+    "foodrating":5,
+    "foodimg":"https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/burger.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Cheeseburger",
+    "foodprice":159,
+    "foodcategory":"Burger",
+    "foodrating":5,
+    "foodimg":"https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/cheeseburger.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Bean burger",
+    "foodprice":79,
+    "foodcategory":"Burger",
+    "foodrating":5,
+    "foodimg":"https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/chickpea_burger.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Wild salmon burger",
+    "foodprice":59,
+    "foodcategory":"Burger",
+    "foodrating":5,
+    "foodimg":"https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/salmon_burger.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},{
+    "foodname":"Veggie burger",
+    "foodprice":99,
+    "foodcategory":"Burger",
+    "foodrating":5,
+    "foodimg":"https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/vegie_burger.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+},
+{
+    "foodname":"Bihar Thali",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://imgmedia.lbb.in/media/2019/10/5d9734bd0f0e6d3b75deac8e_1570190525772.jpg",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+
+
+,
+{
+    "foodname":"West Thali",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://lh3.googleusercontent.com/s0ZVBecseoFuDbOV1fF1iiWR9iOudRMPLc_IcTPkCDjVSxTkiMDHLXF2E8b7v2U2ZBnJuGJ-d3S0CXAyHnir5xEhNPg=w500-rw",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+{
+    "foodname":"{U.P Thali}",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://mykitchentrials.files.wordpress.com/2014/04/up_thali-004.jpg?w=768&h=1024",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+{
+    "foodname":"Haryana Thali",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://lh3.googleusercontent.com/mkBfWZF4bpdMxtQRmmni4KMthdDXC0XWDv8ixVNCyEzbM3w-kV9pmfPa-88E0pI3-pdPVFyanVXXpGklThbXesJyHkU=w500-rw",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+{
+    "foodname":"Nagaland",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://lh3.googleusercontent.com/hg-m9e1iS6Dpx13au3Ol4xLboUSsQtfPHis9U8FjM7PUZNNjIdYENm_9I7Eiz3JF57iDpY5nqJjUrqXO5UtRjvqbHQ=w500-rw",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+{
+    "foodname":"Manipur Thali",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://lh3.googleusercontent.com/BTw5EP7C850-sJeFXQCQw3FjKDO1IAB1nEjTOCzuqqhUKoa6SimBgPAue3SJn7n0K_p0KaewxopxT-oGLecaZtO3BDc=w500-rw",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+{
+    "foodname":"Bangal Thali",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://lh3.googleusercontent.com/QjJ7GTcnOIJXKvrGARgCsXbEDFSEyEZg2bFVDEN6kQqJ-xGyXOVq1sjC5BdPCmKQc2ALR6GDZM67F5lw3_N_kb62WJ87=w500-rw",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+{
+    "foodname":"Jharkhand Thali",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://lh3.googleusercontent.com/asLohKLq0Q6JYKK6Crx9dNYY7bDhez4ePuUXUHJnuJbpifV2hD7HMrZ1XZekmVc9IXXZbyga6OY8G-DRUg51lCWXIQ=w500-rw",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+{
+    "foodname":"THALI GUJARAT",
+    "foodprice":99,
+    "foodcategory":"Thali",
+    "foodrating":5,
+    "foodimg":"https://lh3.googleusercontent.com/s0ZVBecseoFuDbOV1fF1iiWR9iOudRMPLc_IcTPkCDjVSxTkiMDHLXF2E8b7v2U2ZBnJuGJ-d3S0CXAyHnir5xEhNPg=w500-rw",
+    "foodquantity":10,
+    "fooddiscription":"yaha kuch bada sa likhna  hai "
+}
+,
+
+{
+    "foodname": "Margherita Pizza",
+    "foodprice": 299,
+    "foodcategary":"pizza",
+    "foodrating":5,
+    "foodimg":"https://recipes.heart.org/-/media/AHA/Recipe/Recipe-Images/Classic-Margherita-Pizza-with-Whole-Wheat-Pizza-Crust.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+{
+    "foodname": "Cheese Pizza",
+    "foodprice": 99,
+    "foodcategary":"Pizza",
+    "foodrating":5,
+    "foodimg":"https://cdn.shopify.com/s/files/1/0508/5514/9736/files/Recipe_Four_Cheese_Pizza_1_480x480.jpg?v=1620478315",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+{
+    "foodname": "Meat Pizza",
+    "foodprice": 499,
+    "foodcategary":"Pizza",
+    "foodrating":5,
+    "foodimg":"https://www.bacinos.com/wp-content/uploads/2021/05/27-Meat-Lovers-Pizza-Recipes.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+{
+    "foodname": "Hawaiian Pizza",
+    "foodprice": 299,
+    "foodcategary":"Pizza",
+    "foodrating":5,
+    "foodimg":"https://recipes.net/wp-content/uploads/2020/03/dominos-copycat-hawaiian-pizza-recipe.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+{
+    "foodname": "Buffalo Pizza",
+    "foodprice": 359,
+    "foodcategary":"Pizza",
+    "foodrating":5,
+    "foodimg":"https://cdn.shopify.com/s/files/1/0339/6547/3928/files/Buffalo-Chicken-of-the-Woods-Pizza-by-FUNGIWOMAN-1.jpg?v=1633393726",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+{
+    "foodname": "Veggie Pizza",
+    "foodprice": 199,
+    "foodcategary":"Pizza",
+    "foodrating":5,
+    "foodimg":"https://i0.wp.com/www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-side-view-out-of-oven.png?resize=720%2C480&ssl=1",
+    "foodquantity":10,
+    "fooddiscription":""
+}
+
+,
+
+
+{
+    "foodname": "Veggie Pizza",
+    "foodprice": 199,
+    "foodcategary":"Pizza",
+    "foodrating":5,
+    "foodimg":"https://i0.wp.com/www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-side-view-out-of-oven.png?resize=720%2C480&ssl=1",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+
+
+
+{
+    "foodname": "Butter Chicken",
+    "foodprice": 199,
+    "foodcategary":"Chicken",
+    "foodrating":5,
+    "foodimg":"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+{
+    "foodname": "Tandoori Chicken",
+    "foodprice": 199,
+    "foodcategary":"Chicken",
+    "foodrating":5,
+    "foodimg":"https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+{
+    "foodname": "Chicken Tikka Masala",
+    "foodprice": 199,
+    "foodcategary":"Chicken",
+    "foodrating":5,
+    "foodimg":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+{
+    "foodname": "Chicken Bhuna Masala",
+    "foodprice": 199,
+    "foodcategary":"Chicken",
+    "foodrating":5,
+    "foodimg":"https://grubvineweb.com/wp-content/uploads/2022/08/Chicken-Bhuna-Masala-Recipe-Main-Image-Grubvineweb-480x270.webp",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+{
+    "foodname": "Chicken korma",
+    "foodprice": 199,
+    "foodcategary":"Chicken",
+    "foodrating":5,
+    "foodimg":"https://static.toiimg.com/thumb/61709928.cms?width=1200&height=900",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+{
+    "foodname": "Kadai Chicken",
+    "foodprice": 199,
+    "foodcategary":"Chicken",
+    "foodrating":5,
+    "foodimg":"http://www.flavorquotient.com/wp-content/uploads/2016/08/Kadai-Chicken-FQ-5-1-of-1.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+},
+
+{
+    "foodname": "Tawa Chicken",
+    "foodprice": 199,
+    "foodcategary":"Chicken",
+    "foodrating":5,
+    "foodimg":"https://i.ytimg.com/vi/gyP2ClISl5M/maxresdefault.jpg",
+    "foodquantity":10,
+    "fooddiscription":""
+}
+]

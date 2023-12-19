@@ -1,0 +1,31 @@
+.search_main {
+    width: 65%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 17%;
+    /* position: absolute; */
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.search-field {
+    width: 69%;
+    height: 56px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 15%;
+    /* align-items: center;  */
+    margin-top: 1%;
+    /* position: absolute; */
+
+}
+
+
+.input_search{
+    width: 98%;
+    height: 50px;
+    box-shadow: 1px 1px 6px 6px rgb(223, 223, 223);
+    border-width: 2px;
+
+}

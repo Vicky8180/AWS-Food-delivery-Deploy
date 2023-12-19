@@ -1,0 +1,84 @@
+.Cartlog_1{
+    width: 90%;
+    height: auto;
+    /* margin-right: auto;
+    margin-left: auto; */
+    border-radius: 40px;
+    margin-bottom: 10px;
+    margin-top: 16%;
+    margin-left: 5%;
+    background-color: rgb(255, 255, 255);
+}
+h3{
+     color: rgb(0, 0, 0);
+    font-size:large;
+    font-weight:400;
+}
+
+.Cart_img{
+margin-top: 2%;
+    width: 95%;
+    height: 250px;
+    border-radius: 30px;
+}
+.Cartlog_1:hover{
+
+    box-shadow: 1px 1px 6px 6px rgb(223, 223, 223);
+    box-sizing: 2px;
+}
+.Cartlog_121{
+    display: flex;
+    justify-content: space-between;
+}
+.food_name{
+    margin-left: 5%;
+}
+.rating{
+    margin-right: 5%;
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 50px;
+    border-radius: 7px;
+    /* color: rgb(254, 254, 254); */
+    /* margin-top: 50px; */
+
+}
+.rating_2{
+    margin-right: 5%;
+    background-color: rgb(10, 145, 15);
+    height: 32px;
+    width: 50px;
+    border-radius: 7px;
+    color: rgb(254, 254, 254);
+    /* margin-top: 50px; */
+
+}
+.Cartlog_122{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.order_btn{
+    height: 50px;
+    width: 120px;
+    border-radius: 7px;
+    box-sizing: 2px;
+    margin-right: 5%;
+    font-size:larger;
+    border-style: none!important;
+
+}
+.Cartlog_12{
+    margin-bottom: 2%;
+}
+
+.order_btn:hover{
+    background: #058312;
+    /* border-radius: 7px; */
+    /* margin-right: 5%; */
+    color: rgb(255, 255, 255);
+    font-size:larger;
+
+   
+}

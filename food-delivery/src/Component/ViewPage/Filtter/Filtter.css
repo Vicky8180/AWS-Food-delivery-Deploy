@@ -1,0 +1,63 @@
+.Filtter_1{
+
+
+    background-color: rgb(255, 255, 255);
+    width: 74%;
+    height: 420px;
+    margin-top: 1%;
+    margin-bottom: 4%;
+    color: rgb(58, 58, 58);
+    font-size:medium;
+    margin-left: 13%;
+    font-weight: normal;
+}
+.Filtter_12{
+    justify-content: space-between;
+    display: flex;
+    margin-left: 7%;
+    margin-right:7%;
+    background-color: rgb(255, 255, 255);
+    /* color: rgb(58, 58, 58);
+    font-size:medium;
+    font-weight: normal; */
+}
+h2{
+    color: rgb(58, 58, 58);
+    font-size:large;
+    font-weight: normal;
+}
+h1{
+    color: rgb(58, 58, 58);
+    font-size:200%;
+    font-weight: normal;
+}
+.Filtter_121{
+
+    height: 285px;
+    width: 17%;
+    background-color: rgb(255, 255, 255);
+    /* color: rgb(60, 60, 60);
+    font-size:medium;
+    font-weight: normal; */
+    
+}
+.img{
+    height: 185px;
+    width: 100%;
+    margin-top: 10%;
+    border-radius: 100%;
+}
+.filter_btn{
+    background-color: transparent;
+    
+     /* background-color: rgb(225, 225, 225);; */
+    border-style: none!important;
+}
+.filter_btn:hover{
+    cursor: pointer;
+  
+}
+.foodprice{
+    margin-left: 8%;
+    margin-top: -1%;
+}

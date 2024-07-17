@@ -92,10 +92,13 @@ export default function MapforCartlog() {
   const selector = useSelector((state) => state.Searching);
   const newdatacome = selector;
 
+
+
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const fetcheddata = (await axios.get('http://localhost:5000/api/getdetails')).data;
+        console.log(`${process.env.REACT_APP_API_URL}`)
+        const fetcheddata = (await axios.get(`${process.env.REACT_APP_API_URL}/api/getdetails`)).data;
         setData(fetcheddata.response);
       } catch (error) {
         console.log(error);

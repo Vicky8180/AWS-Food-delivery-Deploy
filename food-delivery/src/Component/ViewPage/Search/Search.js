@@ -13,7 +13,7 @@ var [input, setinput]=useState();
     useEffect(()=>{
  const tempsearch=async ()=>{
     try {
-        const fetcheddata=(await axios.get('http://localhost:5000/api/getdetails')).data
+        const fetcheddata=(await axios.get(`${process.env.REACT_APP_API_URL}/api/getdetails`)).data
         setData(fetcheddata.response);
     } catch (error) {
         console.log(error)

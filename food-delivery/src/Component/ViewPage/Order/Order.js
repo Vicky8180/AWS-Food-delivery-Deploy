@@ -73,7 +73,7 @@ const[tprice, settprice]=useState(0.0);
 
   const hitting_endpoint = async (event) => {
     event.preventDefault();
-     await fetch("http://localhost:5000/api/orderpost", {
+     await fetch(`${process.env.REACT_APP_API_URL}/api/orderpost`, {
       method: "post",
       headers: {
 

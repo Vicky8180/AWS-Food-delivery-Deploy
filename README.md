@@ -3,7 +3,13 @@
 ## Overview
 Welcome to our Food Delivery App! This application allows users to create accounts, search for food items by different categories, filter choices, add items to their cart, and proceed to checkout. It's a convenient way to explore and order delicious meals from the comfort of your home. The app is built with a focus on user experience and functionality.
 
+33 Screenshorts
+![17 07 2024_17 58 29_REC](https://github.com/user-attachments/assets/6627f5f6-06ce-470a-b7f6-4abb188e2853)
+
+![17 07 2024_17 59 07_REC](https://github.com/user-attachments/assets/af04b120-ea61-4b16-beed-4be388c242c3)
+
 ## Features
+
 1. 📱 **Account Creation**: Users can create their accounts securely to access the food delivery app.
 2. 🍕 **Food Search**: Search for food items by different categories such as cuisine type, dietary preferences, or meal type.
 3. 🔍 **Filter Choices**: Filter search results based on various criteria like price range, dietary restrictions, or popularity.
